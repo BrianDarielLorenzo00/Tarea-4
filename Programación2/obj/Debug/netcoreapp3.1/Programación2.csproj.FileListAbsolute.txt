@@ -1,0 +1,13 @@
+C:\Users\Administrador\Desktop\Programación2\Programación2\bin\Debug\netcoreapp3.1\Programación2.exe
+C:\Users\Administrador\Desktop\Programación2\Programación2\bin\Debug\netcoreapp3.1\Programación2.deps.json
+C:\Users\Administrador\Desktop\Programación2\Programación2\bin\Debug\netcoreapp3.1\Programación2.runtimeconfig.json
+C:\Users\Administrador\Desktop\Programación2\Programación2\bin\Debug\netcoreapp3.1\Programación2.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Programación2\Programación2\bin\Debug\netcoreapp3.1\Programación2.dll
+C:\Users\Administrador\Desktop\Programación2\Programación2\bin\Debug\netcoreapp3.1\Programación2.pdb
+C:\Users\Administrador\Desktop\Programación2\Programación2\obj\Debug\netcoreapp3.1\Programación2.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Programación2\Programación2\obj\Debug\netcoreapp3.1\Programación2.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Programación2\Programación2\obj\Debug\netcoreapp3.1\Programación2.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Programación2\Programación2\obj\Debug\netcoreapp3.1\Programación2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Programación2\Programación2\obj\Debug\netcoreapp3.1\Programación2.dll
+C:\Users\Administrador\Desktop\Programación2\Programación2\obj\Debug\netcoreapp3.1\Programación2.pdb
+C:\Users\Administrador\Desktop\Programación2\Programación2\obj\Debug\netcoreapp3.1\Programación2.genruntimeconfig.cache
